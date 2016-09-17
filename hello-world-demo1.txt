@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 ﻿Tôi là Sơn và tôi bị GAY.
+=======
+>>>>>>> parent of 107fd8f... test
